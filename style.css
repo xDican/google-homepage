@@ -1,0 +1,83 @@
+body{
+    background: #fff;
+    color: #222;
+    
+}
+element.style{
+    padding-top: 109px;
+}
+.center{
+
+    display: block;
+    text-align: -webkit-center;
+}
+
+.content img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#searchbox input{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 40px;
+    
+}
+#head{
+    text-align: right;
+}
+a{
+    letter-spacing: normal;
+    font-size: 16px;
+}
+a:link{
+    text-decoration: none;
+
+}
+a:visited{
+    text-decoration: none;
+
+}
+a:hover {
+    text-decoration: underline;
+  }
+  
+a:active {
+    text-decoration: underline;
+  }
+
+#button{
+    text-align: center;
+    padding-top: 40px;
+}
+#button input{
+    height: 36px;
+    letter-spacing: normal;
+    font-size: 16px;
+    border-radius: 2px;
+}
+#footer{
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-top: 50;
+    overflow: hidden;
+}
+li{
+    float: left;
+    
+}
+li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+  }
+  #text2{
+      float: right;
+  }
