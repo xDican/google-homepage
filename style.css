@@ -1,6 +1,7 @@
 body{
     background: #fff;
     color: #222;
+    font-family: arial,sans-serif;
     
 }
 element.style{
@@ -61,12 +62,13 @@ a:active {
 }
 #footer{
     text-align: center;
+    margin-bottom: 130px;
+
 }
 ul{
     list-style-type: none;
     margin: 0;
     padding: 0;
-    padding-top: 50;
     overflow: hidden;
 }
 li{
@@ -80,4 +82,8 @@ li a {
   }
   #text2{
       float: right;
+  }
+  #footer2{
+    background: #f2f2f2;
+    font-size: 15px;
   }
